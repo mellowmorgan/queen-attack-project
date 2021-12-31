@@ -26,4 +26,4 @@ No known bugs except no script file yet.
 ## License
 
 _[MIT](https://opensource.org/licenses/MIT)_
-Copyright (c) _2021_ _Morgan Waites
+Copyright (c) _2021_ _Morgan Waites_
